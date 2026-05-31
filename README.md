@@ -19,7 +19,7 @@ This repository is used to organize and maintain all course-related programming 
 | Assignment | Description | Repository Link |
 |------------|-------------|-----------------|
 | Assignment 1 | GitHub repository setup and AI programming workflow introduction | [Assignment 1 Repo](https://github.com/your-username/assignment1-repo) |
-| Assignment 2 | Build a basic machine learning pipeline including data cleaning, preprocessing, train/test split, and Logistic Regression baseline model with explanation of results and limitations | [Assignment 2 Repo](https://github.com/your-username/assignment2-repo) |
+| Assignment 2 | Build a basic machine learning pipeline including data cleaning, preprocessing, train/test split, and Logistic Regression baseline model with explanation of results and limitations | [Assignment 2 Repo](https://github.com/rezamatipour-Data/MBAI5310G-Assignment2-ML-Pipeline-RezaMatipour) |
 | Assignment 3 | Train and compare Logistic Regression and SVM models using classification metrics (accuracy, precision, recall, F1-score) and provide interpretation of results, limitations, and business insights | [Assignment 3 Repo](https://github.com/your-username/assignment3-repo) |
 
 ## Contents
