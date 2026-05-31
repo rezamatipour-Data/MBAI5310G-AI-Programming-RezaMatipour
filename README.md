@@ -1,4 +1,4 @@
-# MBAI5310G-AI-Programming-RezaMatipour
+# MBAI5310G - AI Programming
 
 ## Student Information
 **Student Name:** Reza Matipour  
@@ -12,7 +12,15 @@
 Professional GitHub repository for MBAI 5310G - AI Programming coursework, including weekly coding assignments, AI programming exercises, machine learning projects, notebooks, and final project documentation completed during Spring 2026 at Ontario Tech University.
 
 ## Purpose of This Repository
-This repository is used to organize and maintain all course-related programming work in a structured and professional manner. It will also serve as part of my AI programming portfolio.
+This repository is used to organize and maintain all course-related programming work in a structured and professional manner. It also serves as part of my AI programming portfolio.
+
+## Assignments
+
+| Assignment | Description | Repository Link |
+|------------|-------------|-----------------|
+| Assignment 1 | GitHub repository setup and AI programming workflow introduction | [Assignment 1 Repo](https://github.com/your-username/assignment1-repo) |
+| Assignment 2 | Build a basic machine learning pipeline including data cleaning, preprocessing, train/test split, and Logistic Regression baseline model with explanation of results and limitations | [Assignment 2 Repo](https://github.com/your-username/assignment2-repo) |
+| Assignment 3 | Train and compare Logistic Regression and SVM models using classification metrics (accuracy, precision, recall, F1-score) and provide interpretation of results, limitations, and business insights | [Assignment 3 Repo](https://github.com/your-username/assignment3-repo) |
 
 ## Contents
 This repository may include:
